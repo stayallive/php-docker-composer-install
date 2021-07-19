@@ -16,7 +16,4 @@ steps:
       # default: empty
       github_token:
         from_secret: github_token
-      # (optionally) Disable parallel install using hirak/prestissimo
-      # default: true
-      parallel: false
 ```
