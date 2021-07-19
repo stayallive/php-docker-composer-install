@@ -1,4 +1,4 @@
-FROM stayallive/php:7.3
+FROM stayallive/php:8.0
 
 RUN composer self-update --no-progress
 
